@@ -1,4 +1,4 @@
-## Hash Data Structure
+## Hash Advanced Data Structure
 
 ### References
 
